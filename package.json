@@ -1,0 +1,30 @@
+{
+  "name": "create-node-lambda-app",
+  "version": "1.0.0",
+  "description": "Create node lambdas with zero config and modern tooling. Coming soon...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusinto/create-node-lambda-app.git"
+  },
+  "keywords": [
+    "create",
+    "node",
+    "aws",
+    "lambda",
+    "template",
+    "boilerplate",
+    "zero",
+    "no",
+    "config"
+  ],
+  "author": "Yusinto Ngadiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusinto/create-node-lambda-app/issues"
+  },
+  "homepage": "https://github.com/yusinto/create-node-lambda-app#readme"
+}
